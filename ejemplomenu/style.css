@@ -6,7 +6,7 @@ padding: 0;
 }
 */
 body{
-    background:#1d1374;
+    background-image: radial-gradient(circle,cyan, green, blue);
 }
 .menu{
     list-style: none;
